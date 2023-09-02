@@ -1,0 +1,19 @@
+.wrapper {
+	min-height: 100vh;
+}
+
+input {
+	border: none;
+	width: 100%;
+	outline: none;
+}
+
+.search-bar {
+	margin: 0px auto;
+	padding: 10px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	border: 1px solid grey;
+	border-radius: 25px;
+}
